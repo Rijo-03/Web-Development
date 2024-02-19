@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#fixed {
+    position: sticky;
+    top: 0px;
+    
+}
+
+#line {
+    margin-left: 200px;
+}
+
+#move {
+    margin-left: 510px;
+}
+
+body {
+    background-image: url('abstract-blur-pastel-beautiful-peach-pink-color-sky-warm-tone-background-design-as-bannerslid.jpg');
+    height: 904px;
+}
+
+#contact {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 60px;
+}
+
+#user {
+    margin-bottom: 30px;
+    width: 750px;
+    background-color: rgba(255, 255, 255,0.0);
+    border: 1px solid rgb(5, 151, 151);
+    color: black;
+    font-weight: 600;
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    font-size: large;
+}
+
+#word {
+    margin-bottom: 30px;
+    width: 750px;
+    background-color: rgba(255, 255, 255,0.0);
+    border: 1px solid rgb(5, 151, 151);
+    color: black;
+    font-weight: 600;
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    font-size: large;
+}
+
+#num {
+    margin-bottom: 30px;
+    width: 750px;
+    background-color: rgba(255, 255, 255,0.0);
+    border: 1px solid rgb(5, 151, 151);
+    color: black;
+    font-weight: 600;
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    font-size: large;
+}
+
+#text {
+    background-color: rgba(255, 255, 255,0.0);
+    color: black;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 1px solid rgb(5, 151, 151);
+    color: black;
+    font-weight: 600;
+    font-size: large;
+}
+
+.moving {
+    margin-left: 320px;
+}
+
+#poker {
+    margin-top: 30px;
+    width: 160px;
+    border-radius: 20px;
+    height: 40px;
+    background-color: rgb(236, 63, 0);
+    border: 2px solid rgb(236, 63, 0);
+    color: white;
+    margin-right: 500px;
+}
+
+#poker:hover {
+    background-color: rgba(133, 49, 1, 0.897);
+    border: 0px solid rgba(133, 49, 1, 0.897);
+
+}
