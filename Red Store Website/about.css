@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#fixed {
+    position: sticky;
+    top: 0px;
+    
+}
+
+#line {
+    margin-left: 200px;
+}
+
+#move {
+    margin-left: 510px;
+}
+
+body {
+    background-image: url('abstract-blur-pastel-beautiful-peach-pink-color-sky-warm-tone-background-design-as-bannerslid.jpg');
+    height: 694px;
+}
+
+.tab-1 {
+    font-size: small;
+    text-align: center;
+}
+
+.tab-2 {
+    border-radius: 30px;
+    margin-left: 115px;
+}
+
+.tab {
+    margin-left: 115px;
+    color: rgb(236, 63, 0);
+}
+
+.tab-star {
+    margin-left: 90px;
+    color: rgb(236, 63, 0);
+}
+
+.name {
+    margin-left: 100px;
+    padding-top: 10px;
+}
+
+.tabdesk {
+    margin-top: 100px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.281);
+    width: 280px;
+    height: 350px;
+    margin-left: 35px;
+    border-radius: 10px;
+    padding: 35px 0px;
+    transition-property: all;
+    transition-delay: 0.5s;
+    transition-duration: 0.8s;
+}
+
+.tabdesk:hover {
+    transform:translate(0,-10px)
+}
+.moved {
+    margin-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+#us {
+    text-align: center;
+    margin-top: 70px;
+}
